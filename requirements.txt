@@ -1,0 +1,9 @@
+streamlit
+numpy
+tensorflow
+pillow
+gdown
+h5py
+python-dotenv
+firebase-admin
+pandas

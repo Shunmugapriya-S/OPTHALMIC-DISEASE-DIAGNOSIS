@@ -29,10 +29,11 @@ Apply augmentation (rotation, flipping, brightness adjustment) to increase datas
 ## MODEL TRAINING 
 Use a CNN architecture 
 Compile with appropriate loss function (categorical_crossentropy) and optimizer (Adam)
-
 Train the model using training dataset and validate on validation set
-
 Evaluate metrics: accuracy, precision, recall, F1-score
+# CHATBOT INTEGRATION 
+ AI Analyse the disease and suggest basic preventive measures
+ Incorporated External API
 <img width="1753" height="520" alt="Screenshot 2025-10-06 213608" src="https://github.com/user-attachments/assets/9186a1d8-8e86-4454-bb92-9869b7ce3788" />
 <img width="346" height="308" alt="Screenshot 2025-10-06 213629" src="https://github.com/user-attachments/assets/49d7c94c-91c1-42cb-b3c6-e262c4652746" />
 <img width="1602" height="633" alt="Screenshot 2025-10-06 213941" src="https://github.com/user-attachments/assets/1dee1252-51f3-4758-98fb-1a33adfb9844" />
